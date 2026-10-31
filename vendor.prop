@@ -22,5 +22,8 @@ ro.hardware.keystore_desede=true
 # Radio
 ro.vendor.radio.imei.sv=29
 
+# SoC
+ro.halcyon.soc.marketname=Qualcomm Snapdragon 460
+
 # SKU specific properties
 import /vendor/etc/props/hardware.sku.${ro.boot.hardware.sku}.prop
